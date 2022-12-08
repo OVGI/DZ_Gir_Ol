@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\DZ_Ogi\bin\Debug\net6.0\DZ_Ogi.exe
+C:\Users\user\Desktop\DZ_Ogi\bin\Debug\net6.0\DZ_Ogi.deps.json
+C:\Users\user\Desktop\DZ_Ogi\bin\Debug\net6.0\DZ_Ogi.runtimeconfig.json
+C:\Users\user\Desktop\DZ_Ogi\bin\Debug\net6.0\DZ_Ogi.dll
+C:\Users\user\Desktop\DZ_Ogi\bin\Debug\net6.0\DZ_Ogi.pdb
+C:\Users\user\Desktop\DZ_Ogi\obj\Debug\net6.0\DZ_Ogi.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\DZ_Ogi\obj\Debug\net6.0\DZ_Ogi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\DZ_Ogi\obj\Debug\net6.0\DZ_Ogi.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\DZ_Ogi\obj\Debug\net6.0\DZ_Ogi.AssemblyInfo.cs
+C:\Users\user\Desktop\DZ_Ogi\obj\Debug\net6.0\DZ_Ogi.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\DZ_Ogi\obj\Debug\net6.0\DZ_Ogi.dll
+C:\Users\user\Desktop\DZ_Ogi\obj\Debug\net6.0\refint\DZ_Ogi.dll
+C:\Users\user\Desktop\DZ_Ogi\obj\Debug\net6.0\DZ_Ogi.pdb
+C:\Users\user\Desktop\DZ_Ogi\obj\Debug\net6.0\DZ_Ogi.genruntimeconfig.cache
+C:\Users\user\Desktop\DZ_Ogi\obj\Debug\net6.0\ref\DZ_Ogi.dll
